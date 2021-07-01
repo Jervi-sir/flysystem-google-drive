@@ -1,5 +1,5 @@
 {
-    "name": "jervi-sir/flysystem-google-drive",
+    "name": "jervi-sir/flysystem-gdrive-api",
     "description": "Flysystem adapter for Google Drive",
     "license": "MIT",
     "authors": [
