@@ -32,7 +32,11 @@ php artisan vendor:publish --provider="Spatie\Backup\BackupServiceProvider"
 ```
 
 ```bash
-composer require nao-pon/flysystem-google-drive:~1.1
+composer require jervi-sir/flysystem-gdrive-api:~1.1
+```
+or
+```bash
+composer require jervi-sir/flysystem-gdrive-api
 ```
 
 ```bash
