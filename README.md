@@ -34,10 +34,6 @@ php artisan vendor:publish --provider="Spatie\Backup\BackupServiceProvider"
 ```bash
 composer require jervi-sir/flysystem-gdrive-api:~1.1
 ```
-or
-```bash
-composer require jervi-sir/flysystem-gdrive-api
-```
 
 ```bash
 php artisan make:provider GoogleDriveServiceProvider
