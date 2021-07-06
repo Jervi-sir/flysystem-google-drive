@@ -55,6 +55,10 @@ public function boot()
     });
 }
 ```
+- Declare google provider in config/app.php
+```
+App\Providers\GoogleDriveServiceProvider::class,
+```
 - In config/filesystem.php
 ```
 return [
